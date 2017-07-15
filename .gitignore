@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+app/build/
+app/libs/
+gradle/
+local.properties
+gradlew
+gradlew.bat
+chat.iml

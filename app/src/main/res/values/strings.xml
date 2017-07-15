@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <!-- string used in activity login -->
+    <string name="hint_account">Enter your account</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="button_login">Login</string>
+
+    <string name="button_send">Send</string>
+    <string name="hint_message">Write something to your friend here !</string>
+</resources>
